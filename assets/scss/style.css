@@ -44,6 +44,7 @@ body .container button {
   border: none;
   border-radius: 50px;
   background: linear-gradient(to right, #ec6f66, #f3a183);
+  cursor: pointer;
 }
 body .container .forgot {
   color: #E1BEE7;
